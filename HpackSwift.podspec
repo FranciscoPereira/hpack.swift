@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name = 'HpackSwift'
+  s.name = 'hpack'
   s.version = '0.1.12'
   s.license = { :type => 'BSD-2-Clause', :file => 'LICENSE' }
   s.summary = 'HTTP/2 Header Encoding in Swift'
